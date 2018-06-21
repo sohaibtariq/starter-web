@@ -8,4 +8,5 @@ this is an intro
 ## Deployment
 blah blah
 ## How To contribute 
+Please fork this repo
 copyright notice
